@@ -18,7 +18,7 @@ function showCategory(category) {
         case 'about':
             content = `
                 <h2>About Me</h2>
-                <img src="profile.jpg" alt="Profile Picture" class="profile-picture">
+                <img src="https://media.licdn.com/dms/image/v2/D5603AQE0TeRfzsrrPQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1689153130636?e=1746662400&v=beta&t=7ezvtKUB55kRWFNVrf_cDUb4MfjOQtM9wbAFxQr8DyE" alt="Profile Picture" class="profile-picture">
                 <p>
                     I am a passionate and driven individual pursuing a B-Tech in Computer Science and Engineering. My goal is to leverage my technical skills and knowledge to contribute to organizational growth while staying updated with the latest technologies.
                 </p>
@@ -73,7 +73,7 @@ function showCategory(category) {
                 <h2>Contact</h2>
                 <p>Email: <a href="mailto:alakuntasridhar26@gmail.com">alakuntasridhar26@gmail.com</a></p>
                 <p>Phone: +91 8897064396</p>
-                <p>LinkedIn: <a href="www.linkedin.com/in/alakuntasridhar-2a8015283">LinkedIn Profile</a></p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/alakunta-sridhar-2a8015283/">LinkedIn Profile</a></p>
                 <form>
                     <label for="name">Name:</label>
                     <input type="text" id="name" name="name" required>
