@@ -9,13 +9,16 @@ function showCategory(category) {
     const contentDiv = document.getElementById('content');
     contentDiv.style.display = 'block';
 
+    // Change the body class for category-specific background color
+    document.body.className = category;
+
     // Load the content based on the selected category
     let content = '';
     switch (category) {
         case 'about':
             content = `
                 <h2>About Me</h2>
-                <img src="profile.jpg" alt="Profile Picture" width="150">
+                <img src="profile.jpg" alt="Profile Picture" class="profile-picture">
                 <p>
                     I am a passionate and driven individual pursuing a B-Tech in Computer Science and Engineering. My goal is to leverage my technical skills and knowledge to contribute to organizational growth while staying updated with the latest technologies.
                 </p>
