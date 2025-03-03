@@ -18,7 +18,7 @@ function showCategory(category) {
         case 'about':
             content = `
                 <h2>About Me</h2>
-                <img src="profile.jpg" alt="Profile Picture" class="profile-picture">
+                <img src="1689153130636.jpg.jpg" alt="Profile Picture" class="profile-picture">
                 <p>
                     I am a passionate and driven individual pursuing a B-Tech in Computer Science and Engineering. My goal is to leverage my technical skills and knowledge to contribute to organizational growth while staying updated with the latest technologies.
                 </p>
