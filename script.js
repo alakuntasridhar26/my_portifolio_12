@@ -89,6 +89,8 @@ function showCategory(category) {
                             <li>Multi-Language Support and Comprehensive Reporting </li>
                         </ul>
                     </p>
+                    <img src="plag"  width="160" height="160">
+                    <img src="ddlrg.jpg.jpg"  width="160" height="160">
                  </div>
                 <button onclick="goBack()" class="back-button">Back</button>
             `;
