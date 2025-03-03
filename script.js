@@ -61,7 +61,7 @@ function showCategory(category) {
                 <h2>Projects</h2>
                 <div class="project">
                     <h3>Diabetic Foot Ulcer Detector</h3>
-                <img src="ddlrg.jpg.jpg"  width="160" height="160">
+                <img src="ddlrg.jpg.jpg"  width="200" height="200">
                            <p>
                         This project focuses on the early detection of diabetic foot ulcers using advanced image processing and machine learning techniques. The system analyzes foot images to identify potential ulcers, enabling timely intervention and treatment. The project leverages deep learning models to achieve high accuracy in ulcer detection.
                     </p>
@@ -89,8 +89,8 @@ function showCategory(category) {
                             <li>Multi-Language Support and Comprehensive Reporting </li>
                         </ul>
                     </p>
-                    <img src="plag"  width="160" height="160">
-                    <img src="ddlrg.jpg.jpg"  width="160" height="160">
+                    <img src="plaga.jpeg.jpeg"  width="200" height="200">
+                    <img src="ddlrg.jpg.jpg"  width="200" height="200">
                  </div>
                 <button onclick="goBack()" class="back-button">Back</button>
             `;
