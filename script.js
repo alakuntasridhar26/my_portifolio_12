@@ -90,7 +90,7 @@ function showCategory(category) {
                         </ul>
                     </p>
                     <img src="plaga.jpeg.jpeg"  width="200" height="200">
-                    <img src="spell.png.png"  width="200" height="200">
+                    <img src="spell.png"  width="200" height="200">
                  </div>
                 <button onclick="goBack()" class="back-button">Back</button>
             `;
