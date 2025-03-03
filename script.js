@@ -77,8 +77,6 @@ function showCategory(category) {
                         <strong>Reference:</strong>
                         <a href="https://ieeexplore.ieee.org/document/10724621" target="_blank">IEEE Paper on Diabetic Foot Ulcer Detection</a>
                     </p>
-                </div>
-                <div class="project">
                  <h3>Enhancing Text Authenticity: A Dual Approach to Plagiarism Detection and Spell Correction </h3>
                       <p>
                       This project focuses on improving text authenticity through a dual approach: detecting plagiarism to ensure originality and correcting spelling errors to enhance clarity and accuracy. By integrating advanced algorithms, it identifies duplicated content and suggests corrections for misspelled words, ensuring both integrity and quality in written documents. This comprehensive solution is ideal for academic, professional, and creative writing contexts.
