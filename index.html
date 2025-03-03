@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Loading Page -->
+    <div id="loading-page">
+        <h1>Welcome to My Portfolio</h1>
+        <p>Select a category to view:</p>
+        <div class="category-buttons">
+            <button onclick="showCategory('about')">About Me</button>
+            <button onclick="showCategory('education')">Education</button>
+            <button onclick="showCategory('skills')">Skills</button>
+            <button onclick="showCategory('projects')">Projects</button>
+            <button onclick="showCategory('contact')">Contact</button>
+        </div>
+    </div>
+
+    <!-- Dynamic Content Section -->
+    <div id="content">
+        <!-- Content will be dynamically loaded here -->
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2023 Your Name. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
