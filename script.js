@@ -100,6 +100,7 @@ function showCategory(category) {
                 <h2>Contact</h2>
                 <p>Email: <a href="mailto:alakuntasridhar26@gmail.com">alakuntasridhar26@gmail.com</a></p>
                 <p>Phone: +91 8897064396</p>
+                <p>GitHub: <a href="https://github.com/alakuntasridhar26/">GITHUB</a></p>
                 <p>LinkedIn: <a href="www.linkedin.com/in/alakuntasridhar-2a8015283">LinkedIn Profile</a></p>
                 <form>
                     <label for="name">Name:</label>
