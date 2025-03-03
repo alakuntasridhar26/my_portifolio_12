@@ -61,8 +61,21 @@ function showCategory(category) {
                 <h2>Projects</h2>
                 <div class="project">
                     <h3>Diabetic Foot Ulcer Detector</h3>
+                    <img src="diabetic_foot_ulcer.jpg" alt="Diabetic Foot Ulcer Detection" class="project-image">
+                           <p>
+                        This project focuses on the early detection of diabetic foot ulcers using advanced image processing and machine learning techniques. The system analyzes foot images to identify potential ulcers, enabling timely intervention and treatment. The project leverages deep learning models to achieve high accuracy in ulcer detection.
+                    </p>
+                     <p>
+                        <strong>Key Features:</strong>
+                        <ul>
+                            <li>Uses convolutional neural networks (CNNs) for image analysis.</li>
+                            <li>Provides real-time feedback on foot health.</li>
+                            <li>Helps reduce the risk of severe complications in diabetic patients.</li>
+                        </ul>
+                    </p>
                     <p>
-                        A deep learning-based project that uses Python modules to analyze foot images and detect diabetic foot ulcers. The system checks whether a patient is suffering from a foot ulcer based on the input image.
+                        <strong>Reference:</strong>
+                        <a href="https://ieeexplore.ieee.org/document/10724621" target="_blank">IEEE Paper on Diabetic Foot Ulcer Detection</a>
                     </p>
                 </div>
                 <button onclick="goBack()" class="back-button">Back</button>
